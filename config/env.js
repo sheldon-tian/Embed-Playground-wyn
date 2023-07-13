@@ -99,11 +99,11 @@ function getClientEnvironment(publicUrl) {
       },
       {
         WYN_HOST: 'https://wynwx.grapecity.com.cn/wyn',
-        WYN_TOKEN: '为您Wyn 部署的服务器上生成的token',
+        WYN_TOKEN: '56003AFB1A9AAE2C2F3D9AF5523501A2F22CAD53EB57064EB1DF662F214A1260',
         WYN_INTERFACE_HOST: 'https://wynwx.grapecity.com.cn/wyn',
-        WYN_INTERFACE_TOKEN: '为您Wyn 部署的服务器上生成的token',
+        WYN_INTERFACE_TOKEN: '56003AFB1A9AAE2C2F3D9AF5523501A2F22CAD53EB57064EB1DF662F214A1260',
 
-        WYN_HOME_PAGE: '',
+        WYN_HOME_PAGE: 'playground',
 
         USE_CUSTOM_THEME: true,
       }
