@@ -6,7 +6,7 @@ import { useSelectedKeys } from '../../index';
 import './CustomReportDesigner.scss';
 
 let viewer: any | undefined;
-const cacheReportToken: any = undefined;
+const cacheReportToken = '35344965356C27E95B174BA3A54D5F6688961E0AF250BA9AD1D416F89947AD70';
 
 export const CustomReportDesigner: FC = () => {
   const [isPackageLoaded, setIsPackageLoaded] = useState<boolean>(false);
