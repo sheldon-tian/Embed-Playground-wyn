@@ -106,6 +106,7 @@ function getClientEnvironment(publicUrl) {
         WYN_HOME_PAGE: 'playground',
 
         USE_CUSTOM_THEME: true,
+        IS_DEPLOY_SITE: false,
       }
     );
   // Stringify all values so we can feed into webpack DefinePlugin
